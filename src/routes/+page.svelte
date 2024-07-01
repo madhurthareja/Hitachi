@@ -77,7 +77,7 @@
         >
       </p>
       <p>
-        <a class="resume" href="./assets/Resume.pdf" target="_blank"
+        <a class="resume" href="./assets/Madhur_Thareja_Resume.pdf" target="_blank"
           ><i class="fa-solid fa-download"></i> Download Resume
         </a>
       </p>
@@ -98,14 +98,11 @@
   <section class="section--page">
     <h2><i class="fa-solid fa-bolt"></i> Summary</h2>
     <p>
-      I work at the intersection of Electronics & Machine
-      Learning focussing on Computer Vision (CV), Generative AI
-      (GenAI) and Large Language Models (LLMs). I also have a keen interest in
-      cloud, linux and other tools surrounding tech.
+      I specialize in the intersection of Electronics and Machine Learning, with a focus on Computer Vision (CV), Generative AI (GenAI), and Large Language Models (LLMs). My work also extends to cloud computing, Linux, and various other technological tools. I am passionate about leveraging these technologies to solve complex problems and create innovative solutions.
       <br />
       <br />
       <small
-        >Born and brought up in Gurugram, I lived all of my life there. .</small
+        >Born and raised in Gurugram, I have always been fascinated by technology and its potential to transform the world. I enjoy staying up-to-date with the latest advancements in AI and electronics, and I am constantly exploring new ways to integrate these fields. In my free time, I like to contribute to open-source projects and participate in tech communities.</small
       >
     </p>
   </section>
@@ -113,7 +110,7 @@
     <h2><i class="fa-solid fa-briefcase"></i> Work</h2>
 
     <div class="card--work-history">
-      👨‍💻 Summer Intern @
+      👨‍💻 Summer School @
       <strong class="company"
         ><a href="https://www.iitrpr.ac.in/" target="_blank" rel="noopener noreferrer"
           >Indian Institute of Technology Ropar</a
