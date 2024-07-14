@@ -8,7 +8,7 @@
       text: "Blog",
     },
     {
-      href: "www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=madhurthareja",
+      href: "https://www.linkedin.com/in/madhurthareja/",
       icon: "fa-brands fa-linkedin",
       text: "Follow me on LinkedIn",
     },
