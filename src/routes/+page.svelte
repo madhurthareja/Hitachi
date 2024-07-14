@@ -5,17 +5,17 @@
     {
       href: "https://madhurthareja.hashnode.dev",
       icon: "fa-brands fa-hashnode",
-      text: "Blog",
+      text: "Here's my Blog Page",
     },
     {
       href: "https://www.linkedin.com/in/madhurthareja/",
       icon: "fa-brands fa-linkedin",
-      text: "Follow me on LinkedIn",
+      text: "Connect with me on LinkedIn",
     },
     {
       href: "https://github.com/madhurthareja",
       icon: "fa-brands fa-github",
-      text: "Github",
+      text: "Check out Github",
     },
     
   ];
