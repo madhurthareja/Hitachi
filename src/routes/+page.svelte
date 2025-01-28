@@ -110,7 +110,21 @@
     <h2><i class="fa-solid fa-briefcase"></i> Work</h2>
 
     <div class="card--work-history">
-      👨‍💻 Summer School @
+      👨‍💻 Project Intern, Chip Design Studio @
+      <strong class="company"
+        ><a href="https://ece.iiitb.ac.in/chip-design/" target="_blank" rel="noopener noreferrer"
+          >International Institute of Information Technology</a
+        ></strong
+      >
+      🏢
+      <p>
+        📅 01/2025 - 02/2025 • Bengaluru, India 📍
+      </p>
+    </div>
+
+
+    <div class="card--work-history">
+      🔬 Research and Teaching Assitant [Machine Learning and AI] @
       <strong class="company"
         ><a href="https://www.iitrpr.ac.in/" target="_blank" rel="noopener noreferrer"
           >Indian Institute of Technology Ropar</a
@@ -118,7 +132,20 @@
       >
       🏢
       <p>
-        📅 05/2024 - 07/2024 • Punjab, India 📍
+        📅 08/2024 - 12/2024 • Punjab, India 📍
+      </p>
+    </div>
+
+    <div class="card--work-history">
+      👨‍💻 Young Professional @
+      <strong class="company"
+        ><a href="https://ihub-awadh.in/" target="_blank" rel="noopener noreferrer"
+          >iHub @ Indian Institute of Technology Ropar</a
+        ></strong
+      >
+      🏢
+      <p>
+        📅 07/2024 - 10/2024 • Punjab, India 📍
       </p>
     </div>
 
